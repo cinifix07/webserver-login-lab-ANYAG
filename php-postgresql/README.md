@@ -1,3 +1,8 @@
+# FULL NAME
+NAME : CINIE ANYAG
+COURSE : BSIT 3 S1 
+TITLE : STANDALONE WEB SERVER INSTALLATION AND PHP LOGIN S
+
 # Simple Login System
 
 A complete beginner-friendly login application built with standalone Apache,
